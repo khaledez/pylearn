@@ -1,3 +1,4 @@
+# this is how they taught us buble sort in school
 def bubble_sort(list: iter) -> iter:
     local_list = list.copy()
     for i in range(len(local_list) - 1):
